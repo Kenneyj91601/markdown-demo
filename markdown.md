@@ -1,3 +1,3 @@
 # MARKDOWN PAGE
-`highlighted`  
+## This text is `highlighted`  
 [toREADME file](/README.md)
