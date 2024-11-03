@@ -1,2 +1,2 @@
 # MARKDOWN PAGE
-==highlighted==
+**highlighted**
